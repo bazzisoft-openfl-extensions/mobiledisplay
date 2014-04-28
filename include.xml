@@ -8,7 +8,7 @@
     <dependency name="mobiledisplay" path="dependencies/android" if="android" />
     <android extension="org.haxe.extension.mobiledisplay.MobileDisplay" />
 
-    <include path="../extensionkit-0.1" />
+    <include path="../extensionkit" />
 
     <assets path="assets" rename="mobiledisplay" include="*" />
 

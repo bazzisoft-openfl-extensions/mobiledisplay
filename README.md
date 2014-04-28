@@ -29,7 +29,7 @@ Usage
 
 ### project.xml
 
-    <include path="/path/to/mobiledisplay-0.1" />
+    <include path="/path/to/mobiledisplay" />
 
 
 ### Haxe
