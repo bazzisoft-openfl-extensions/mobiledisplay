@@ -1,11 +1,19 @@
 MobileDisplay
 =============
 
-This extension provides functionality for managing the display of mobile devices. Currently this includes:
+### Manage the mobile display & detect virtual keyboard appearance
 
-- Keeping the screen on indefinitely.
-- Detecting and triggering events when the virtual keyboard pops up & down.
-- Simulating a soft keyboard display element for non-mobile devices.
+- Lets you keep the screen on indefinitely.
+
+- Detects and triggers events when the virtual keyboard pops up & down.
+
+- Simulates a soft keyboard display element for non-mobile devices.
+
+
+Acknowledgements
+----------------
+
+- Android keyboard detection code modified from [http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android).
 
 
 Dependencies
